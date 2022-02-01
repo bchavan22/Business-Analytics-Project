@@ -46,15 +46,24 @@ Objective: Predicting out of 3 teams a Best Team Performance in Basketball in Ne
 ## **Action Plans**: 
 
 •	I am planning to use benchmark to measure a performance using very specific indicators such as productivity per unit of measure, cost per unit of measure, cycle time of x per unit of measure or defects per unit of measure.
+
 •	These outcomes will give us performance results and it is easy to compare with each other teams.
+
 •	At the minimum, will include the following performance indicators for each team:
-o	Number of games won 
-o	Number of games lost 
-o	PTS -- Total Points 
-o	G -- Number of Games played during the season
-o	FG% -- Field Goal Percentage 
-o	2P% -- 2 Points Field Goal percentage per Game 
-o	TOV -- Total Turnovers
+
+	o	Number of games won 
+
+	o	Number of games lost 
+
+	o	PTS -- Total Points 
+
+	o	G -- Number of Games played during the season
+
+	o	FG% -- Field Goal Percentage 
+
+	o	2P% -- 2 Points Field Goal percentage per Game 
+
+	o	TOV -- Total Turnovers
 
 ### Expectations:
 
