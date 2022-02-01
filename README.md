@@ -18,7 +18,9 @@ I will be using various techniques and methodology taught during this course to 
 
 Entity |	Name of Team |
 ------|--------------------------------------|
-G |	Number of Games | MP |	Minutes Played per Game | FG |	Field Goals per Game |
+G |	Number of Games | 
+MP |	Minutes Played per Game | 
+FG |	Field Goals per Game |
 FGA |	Field Goals Attempt per Game |
 FG% |	Field Goals percentage per Game |
 2P |	2 PTs Per Game |
@@ -40,32 +42,6 @@ TOV |	Turnovers per Game |
 PF |	Personal Fouls |
 PTS |	Points Per Game |
 
-
-
-Entity	Name of Team
-G	Number of Games
-MP	Minutes Played per Game
-FG	Field Goals per Game
-FGA	Field Goals Attempt per Game
-FG%	Field Goals percentage per Game
-2P	2 PTs Per Game
-2PA	2 PTs Attempt per Game
-2P%	2 PTs Field Goal percentage per Game
-3P	3 PTs Per Game
-3PA	3 PTs Attempt per Game
-3P%	3 PTs Field Goal percentage per Game
-FT	Free Throws per Game
-FTA	Free Throws Attempt per Game
-FT%	Free Throw Percentage per Game
-ORB	Offensive Rebounds per Game
-DRB	Defensive Rebounds per Game
-TRB	Total Rebounds per Game
-AST	Assists per Game
-STL	Steals per Game
-BLK	Blocks per Game
-TOV	Turnovers per Game
-PF	Personal Fouls
-PTS	Points Per Game
 
 
 ## Objective: Predicting out of 3 teams a Best Team Performance in Basketball in New Jersey
