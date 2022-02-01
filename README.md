@@ -18,9 +18,7 @@ I will be using various techniques and methodology taught during this course to 
 
 Entity	Name of Team
 ------|--------------------------------------|
-G |	Number of Games |
-MP |	Minutes Played per Game |
-FG |	Field Goals per Game |
+G |	Number of Games | MP |	Minutes Played per Game | FG |	Field Goals per Game |
 FGA |	Field Goals Attempt per Game |
 FG% |	Field Goals percentage per Game |
 2P |	2 PTs Per Game |
