@@ -56,11 +56,11 @@ o	FG% -- Field Goal Percentage
 o	2P% -- 2 Points Field Goal percentage per Game 
 o	TOV -- Total Turnovers
 
-Expectations:
+### Expectations:
 
 Apply all the knowledge of lessons learned in class, in additional try out more Business analytics techniques on the data set, to find out what could be more scope of study in different area. The main aim of project to gain experience in versatile Business analytics subject.
 
-Using Tools:
+### Using Tools:
 
 I have decided to use Excel and functions such as Min, Max, Sum, Average, Count, Count IF, VlookUp to ease analysis work. I will also use some of the different features of Excel like Dashboard, ICON Sets, Sparklines, Descriptive Statistics, Predictive Model. This will be new function for me Use the Slicer functionality to slice the data
 
