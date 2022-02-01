@@ -16,7 +16,7 @@ I will be using various techniques and methodology taught during this course to 
 ### The dataset attributes have following information:
 
 
-Entity	Name of Team
+Entity |	Name of Team |
 ------|--------------------------------------|
 G |	Number of Games | MP |	Minutes Played per Game | FG |	Field Goals per Game |
 FGA |	Field Goals Attempt per Game |
