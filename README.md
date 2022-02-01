@@ -51,19 +51,19 @@ Objective: Predicting out of 3 teams a Best Team Performance in Basketball in Ne
 
 •	At the minimum, will include the following performance indicators for each team:
 
-	o	Number of games won 
+	1.Number of games won 
 
-	o	Number of games lost 
+	2.Number of games lost 
 
-	o	PTS -- Total Points 
+	3.PTS -- Total Points 
 
-	o	G -- Number of Games played during the season
+	4.G -- Number of Games played during the season
 
-	o	FG% -- Field Goal Percentage 
+	5.FG% -- Field Goal Percentage 
 
-	o	2P% -- 2 Points Field Goal percentage per Game 
+	6.2P% -- 2 Points Field Goal percentage per Game 
 
-	o	TOV -- Total Turnovers
+	7.TOV -- Total Turnovers
 
 ### Expectations:
 
